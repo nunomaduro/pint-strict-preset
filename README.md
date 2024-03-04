@@ -13,6 +13,7 @@ Pint strict preset is an insanely defensive coding style preset for those who de
         "backtick_to_shell_exec": true,
         "declare_strict_types": true,
         "final_class": true,
+        "fully_qualified_strict_types": true,
         "ordered_interfaces": true,
         "ordered_traits": true
     }

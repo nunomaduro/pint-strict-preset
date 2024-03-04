@@ -7,4 +7,10 @@
 Pint strict preset is an insanely defensive coding style preset for those who demand meticulous precision in their projects. To use it, simply create a `pint.json` file with the following contents:
 
 ```json
+{
+    "rules": {
+        "final_class": true,
+        "declare_strict_types": true
+    }
+}
 ```

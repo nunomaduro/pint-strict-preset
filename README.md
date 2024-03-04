@@ -9,8 +9,10 @@ Pint strict preset is an insanely defensive coding style preset for those who de
 ```json
 {
     "rules": {
+        "declare_strict_types": true,
         "final_class": true,
-        "declare_strict_types": true
+        "ordered_interfaces": true,
+        "ordered_traits": true
     }
 }
 ```

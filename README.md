@@ -9,6 +9,7 @@ Pint strict preset is an insanely defensive coding style preset for those who de
 ```json
 {
     "rules": {
+        "backtick_to_shell_exec": true,
         "declare_strict_types": true,
         "final_class": true,
         "ordered_interfaces": true,

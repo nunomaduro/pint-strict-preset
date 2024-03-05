@@ -46,7 +46,8 @@ Pint strict preset is an insanely defensive coding style preset for those who de
             "sort_algorithm": "none"
         },
         "ordered_interfaces": true,
-        "ordered_traits": true
+        "ordered_traits": true,
+        "strict_comparison": true
     }
 }
 ```
